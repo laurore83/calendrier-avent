@@ -1,0 +1,139 @@
+.TemplateDDay {
+  display: flex;
+  flex-direction: column;
+}
+.TemplateDDay-top {
+  width: 10%;
+}
+.contenu-wishes {
+  display: flex;
+  align-items: center;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  line-height: 32px;
+  justify-content: center;
+  background-color: wheat;
+  width: 70%;
+  padding: 4rem;
+  border-radius: 20px;
+  box-shadow: 4px 4px 4px lightgrey;
+}
+
+.container-wishes {
+  display: flex;
+  justify-content: center;
+}
+
+.text-wishes {
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 0 2rem;
+  margin-left: 2rem;
+}
+
+.img-wish {
+  border-radius: 8px;
+}
+
+.marketimg {
+  width: 100%;
+  height: 20rem;
+  background-size: cover;
+  background-position: center;
+}
+.Templatebody {
+  display: flex;
+}
+.containersurprisedujour {
+  display: flex;
+  justify-content: flex-start;
+  background-color: #012b06;
+  padding-left: 50px;
+  width: 100%;
+  height: 200px;
+  color: white;
+  align-items: center;
+}
+.surprisedujour {
+  margin-block: 50px;
+  margin-left: 47px;
+  font-size: 50px;
+  font-weight: 300px;
+  font-family: "Poppins", sans-serif;
+}
+h2 {
+  font-size: 40px;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 30px;
+}
+
+h3 {
+  font-family: "Poppins", sans-serif;
+}
+
+.cercle {
+  margin-top: 70px;
+  right: 130px;
+  top: 0px;
+  position: absolute;
+  width: 250px;
+  height: 250px;
+  background-color: #f0a4ba;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cercle span {
+  font-size: 75px;
+  font-weight: 700;
+  color: white;
+}
+
+.painepice {
+  position: absolute;
+  top: 30px;
+  right: 30px;
+  width: 50px;
+  height: 50px;
+}
+
+.painepice img {
+  width: 100%;
+  height: auto;
+}
+
+.tige {
+  height: 100px;
+  width: 10px;
+  background-color: red;
+  margin-top: 0px;
+  right: 250px;
+  top: 0px;
+  position: absolute;
+}
+
+.noeud {
+  z-index: 1;
+  height: 143px;
+  /* width: 4px; */
+  margin-top: 22px;
+  right: 184px;
+  top: 0px;
+  position: absolute;
+}
+
+.Bouton-ici {
+  background-color: #f0a4ba;
+  border-radius: 50px;
+  padding: 15px 30px 15px 30px;
+  color: white;
+  font-size: 17px;
+  margin: 30px 40px 0 40px;
+  border: 0;
+}
+
+p {
+  font-family: "Poppins", sans-serif;
+}

@@ -1,0 +1,13 @@
+.navbarimg {
+  width: 3rem;
+  height: 3rem;
+}
+
+.navbar {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  height: 200px;
+  padding: 1rem;
+  background-color: #012b06;
+}

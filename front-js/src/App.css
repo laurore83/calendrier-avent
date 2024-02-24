@@ -1,0 +1,11 @@
+@import "./Pages/template.css";
+@import "./components/navbar.css";
+@import url("https://fonts.googleapis.com/css2?family=Poppins");
+@import "../src/Style/home.css";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Poppins;
+}
